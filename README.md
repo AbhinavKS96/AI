@@ -1,24 +1,30 @@
-# Professional Portfolio Website
+# Abhinav K S - Senior Consultant Portfolio
 
-This is a modular, responsive portfolio website built with HTML, CSS, and JavaScript. It showcases your introduction, experience, education, projects, skills, certifications, and contact information for recruiters and employers.
+A modern, responsive portfolio website showcasing my experience in sustainability, infrastructure, and analytics consulting.
 
-## Project Structure
+## About Me
 
-```
-/assets      # Images, icons, and other assets
-/css         # Stylesheets
-/js          # JavaScript modules
-index.html   # Main entry point
-```
+I'm Abhinav K S, a Senior Consultant with 6.5 years of experience driving impactful projects across government and private sectors. My expertise spans project management, utilities infrastructure, waste management, bid process management, data analytics, and sustainability.
 
-## Features
-- Introduction/About Me
-- Experience (Timeline)
-- Education
-- Projects
-- Skills
-- Certifications
-- Contact Section
+## Key Highlights
 
-## Getting Started
-Open `index.html` in your browser to view the site.
+- 6.5+ years across sustainability, infrastructure, and analytics
+- Worked with ADB, AIIB, and multiple state governments
+- Built state-level monitoring dashboards (Power BI) across 649 ULBs
+- Generated ~₹6 crore in new business through client-focused proposals
+
+## Technologies Used
+
+- HTML5, CSS3, JavaScript
+- Modern responsive design
+- GitHub Pages deployment
+
+## Contact
+
+- Email: abhinav.k.s.586@gmail.com
+- Phone: +91 9741274096
+- Location: Mysore, India
+
+---
+
+*Last updated: December 2024*
